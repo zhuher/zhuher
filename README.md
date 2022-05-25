@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhuher
 - 👀 I’m interested in e
-- 🌱 I’m currently learning C++ & Rust
+- 🌱 I’m currently learning C++, Python & Rust
 - 💞️ I’m looking to collaborate on anything programming
 - 📫 How to reach me e
 
