@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhuher
 - 👀 I’m interested in e
-- 🌱 I’m currently learning C++, Python & Rust
-- 💞️ I’m looking to collaborate on anything programming
+- 🌱 I’m currently learning C++, Java, Python & Rust
+- 💞️ I’m looking to learn to code fast and beautiful stuff
 - 📫 How to reach me e
 
 <!---
