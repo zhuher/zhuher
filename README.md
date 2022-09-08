@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhuher
+- 👋 Hi, I’m Herman
 - 👀 I’m interested in e
 - 🌱 I’m currently learning C++, Java, Python & Rust
 - 💞️ I’m looking to learn to code fast and beautiful stuff
